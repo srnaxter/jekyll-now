@@ -8,6 +8,8 @@ Este es mi primer articulo
 
 Music is music
 
+![github]({{ site.baseurl }}/images/kitten.png)
+
 ###Subsección 1
 
 My life is music
